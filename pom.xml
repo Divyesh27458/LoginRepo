@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>manufacturejet</groupId>
-  <artifactId>hack</artifactId>
+  <artifactId>CustomerLogin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>hack</name>
+  <name>CustomerLogin</name>
   <url>http://maven.apache.org</url>
 
  <parent>
