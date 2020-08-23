@@ -1,16 +1,16 @@
 
-Hcom.infosys.project.user.entity.Wishlist#getBuyerId()Ljava/lang/Integer;_
-UC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/entity/Wishlist.java ("1*£
-1_
-UC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/entity/Wishlist.java	 (¾
-»
-_
-UC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/entity/Wishlist.java	 (
-%0java.lang.Integer"__id*9*7*
-(com.infosys.project.user.entity.Wishlist"	
-buyerId"|
-_
-UC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/entity/Wishlist.java (
-
-%0java.lang.IntegerB,*
-(com.infosys.project.user.entity.Wishlist
+Dcom.infosys.project.user.dto.RegisterDTO#getName()Ljava/lang/String;]
+SC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/dto/RegisterDTO.java   ("1*˜
+1]
+SC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/dto/RegisterDTO.java!	 !(¸
+µ
+]
+SC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/dto/RegisterDTO.java!	 !(
+%0java.lang.String"__id*6*4*
+(com.infosys.project.user.dto.RegisterDTO"
+name"y
+]
+SC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/dto/RegisterDTO.java! !(
+
+%0java.lang.StringB,*
+(com.infosys.project.user.dto.RegisterDTO

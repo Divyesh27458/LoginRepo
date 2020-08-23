@@ -21,6 +21,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+                <sonar.projectKey>Divyesh27458_LoginRepo</sonar.projectKey>
+                <sonar.organization>divyesh27458</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                <sonar.login>8c846d65b27cb1c8e7843cc44cf8fa6a928ab792</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>

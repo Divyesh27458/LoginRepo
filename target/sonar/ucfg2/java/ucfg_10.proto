@@ -1,27 +1,16 @@
 
-Qcom.infosys.project.user.validator.SellerValidator#contactno(Ljava/lang/String;)Zi
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java& &( "3*„
-2i
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java)
- )("s
-i
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java) )(
-""*ù
-3i
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java( ((§°
-i
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java( ((N
-%0boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
-
-numberjava.lang.String*;9
-7^(?:(?:\\+|0{0,2})91(\\s*[\\-]\\s*)?|[0]?)?[789]\\d{9}$2matches(Ljava/lang/String;)*
-2
-1*„
-1i
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java+
- +("s
-i
-_C:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/validator/SellerValidator.java+ +(
-"":
-numberjava.lang.StringB6"4
-2com.infosys.project.user.validator.SellerValidator
+Kcom.infosys.project.user.entity.CustomerEntity#getEmail()Ljava/lang/String;c
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java7 7("1*±
+1c
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java8	 8(≈
+¬
+c
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java8	 8(
+%0java.lang.String"__id*=*;0
+.com.infosys.project.user.entity.CustomerEntity"
+email"
+c
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java8 8(
+
+%0java.lang.StringB20
+.com.infosys.project.user.entity.CustomerEntity

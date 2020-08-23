@@ -1,19 +1,9 @@
 
-_com.infosys.project.user.UserConfig#restTemplate()Lorg/springframework/web/client/RestTemplate;Z
-PC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/UserConfig.java ($"1*‰
-1Z
-PC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/UserConfig.java (!¿¼
-Z
-PC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/UserConfig.java (1
-%0+org.springframework.web.client.RestTemplate"+org.springframework.web.client.RestTemplateÑ
-Î
-Z
-PC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/UserConfig.java (!
-%1"5org.springframework.web.client.RestTemplate#<init>()V*3
-1
-%0+org.springframework.web.client.RestTemplate"‘
-Z
-PC:/Users/Arunbalaji/user1/src/main/java/com/infosys/project/user/UserConfig.java ("3
-1
-%0+org.springframework.web.client.RestTemplateB'%
-#com.infosys.project.user.UserConfig
+?com.infosys.project.user.entity.CustomerEntity#getCustomerid()Ic
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java+ +("1*×
+1c
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java,	 ,("m
+c
+YC:/Users/DELL/LoginRepo/src/main/java/com/infosys/project/user/entity/CustomerEntity.java, ,(
+""B20
+.com.infosys.project.user.entity.CustomerEntity
